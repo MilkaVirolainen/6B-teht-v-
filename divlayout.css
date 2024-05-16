@@ -1,0 +1,28 @@
+.Header {
+  background-color: rgb(179, 177, 177);
+  text-align: center;
+  color: white;
+  font-size: 50px;
+  padding: 70px;
+}
+
+.Nav {
+background-color: rgb(215, 205, 205);
+float: left;
+text-align: center;
+color: white;
+font-size: 35px;
+padding: 70px;
+width: 40px;
+height: 300px;
+}
+
+.Section {
+background-color: rgb(234, 223, 223);
+float: left;
+text-align: center;
+color: white;
+font-size: 35px;
+padding: 70px;
+width: 1000px;
+}

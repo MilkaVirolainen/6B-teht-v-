@@ -1,4 +1,23 @@
-body {background: rgb(134, 200, 178);}
-.red { 
-    color: blue;
+body {background: rgb(0,0,0);
+}
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+p {
+    color: rgb(0, 255, 0);
+    font-size: 12px;
+}
+ol {
+    color: rgb(255, 255, 255);
+}
+ul {
+    color:rgb(255, 255, 255);
+    list-style-type: square;
+}
+.myDiv {
+border: 2px dotted;
+color:rgb(255, 255, 255);
+height: 100px;
+width: 100px;
 }
